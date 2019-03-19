@@ -103,6 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.csv
-.sqlite
-.xlsx
+*.csv
+*.sqlite
+*.xlsx
